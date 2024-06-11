@@ -1,9 +1,8 @@
 # Bunko-pre
 
-A theme that support pre text.     
-Forked by the [bunko theme for Vivliostyle](https://github.com/PenguinCabinet/vivliostyle-themes/tree/main/packages/@vivliostyle/theme-bunko).
+A theme that add pre text support to bunko theme for Vivliostyle.     
 
-[文庫用のテーマ](https://github.com/PenguinCabinet/vivliostyle-themes/tree/main/packages/@vivliostyle/theme-bunko)を、preテキストに対応したテーマ。
+[文庫用のテーマ](https://github.com/PenguinCabinet/vivliostyle-themes/tree/main/packages/@vivliostyle/theme-bunko)で、preテキストを使えるようにするテーマ。
 
 ## Use
 
