@@ -1,7 +1,7 @@
 {
   "name": "@penguincabinet/vivliostyle-theme-bunko-pre",
   "description": "文庫用のテーマ",
-  "version": "1.0.1b",
+  "version": "1.0.1c",
   "author": "PenguinCabinet <contact@penguincabinet.com>",
   "main": "theme.css",
   "scripts": {
