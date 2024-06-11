@@ -1,0 +1,57 @@
+{
+  "name": "@penguincabinet/vivliostyle-theme-bunko-pre",
+  "description": "文庫用のテーマ",
+  "version": "1.0.1b",
+  "author": "PenguinCabinet <contact@penguincabinet.com>",
+  "main": "theme.css",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview",
+    "validate": "vivliostyle-theme-scripts validate"
+  },
+  "dependencies": {
+    "@vivliostyle/theme-base": "^1.0.1"
+  },
+  "devDependencies": {
+    "@vivliostyle/cli": ">=7",
+    "vivliostyle-theme-scripts": "^0.3.6"
+  },
+  "peerDependencies": {
+    "@vivliostyle/cli": ">=7"
+  },
+  "peerDependenciesMeta": {
+    "@vivliostyle/cli": {
+      "optional": true
+    }
+  },
+  "files": [
+    "*.css",
+    "example",
+    "vivliostyle.config.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PenguinCabinet/vivliostyle-theme-bunko-pre.git",
+    "directory": "/"
+  },
+  "homepage": "https://github.com/PenguinCabinet/vivliostyle-theme-bunko-pre",
+  "keywords": [
+    "vivliostyle",
+    "vivliostyle-theme"
+  ],
+  "license": "CC0-1.0",
+  "vivliostyle": {
+    "theme": {
+      "name": "Bunko-pre",
+      "style": "theme.css",
+      "category": "novel",
+      "topics": [
+        "小説",
+        "縦書き"
+      ]
+    }
+  }
+}
