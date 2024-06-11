@@ -16,7 +16,7 @@ module.exports = {
 ```
 
 ## Differences from the original
-For more details, please see [the example](./example/bunko.md).
+For more details, please see [the example](https://raw.githubusercontent.com/PenguinCabinet/vivliostyle-theme-bunko-pre/main/example/bunko.md).
 ### A samples of the original bunko theme
 ```markdown
 「ではみなさんは、そういうふうに川だと{云|い}われたり、乳の流れたあとだと云われたりしていたこのぼんやりと白いものがほんとうは何かご承知ですか。」先生は、黒板に{吊|つる}した大きな黒い星座の図の、上から下へ白くけぶった銀河帯のようなところを{指|さ}しながら、みんなに{問|とい}をかけました。
@@ -59,8 +59,4 @@ For more details, please see [the example](./example/bunko.md).
 
 ## License
 
-CC0 1.0
-
-> Original author: Vivliostyle project team
-
-> Diff author: PenguinCabinet
+> author: PenguinCabinet
