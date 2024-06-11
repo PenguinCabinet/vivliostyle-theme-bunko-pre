@@ -1,7 +1,7 @@
 {
   "name": "@penguincabinet/vivliostyle-theme-bunko-pre",
   "description": "Preテキストに対応した文庫用のテーマ",
-  "version": "1.0.1d",
+  "version": "1.0.1e",
   "author": "PenguinCabinet <contact@penguincabinet.com>",
   "main": "theme.css",
   "scripts": {
@@ -42,7 +42,7 @@
     "vivliostyle",
     "vivliostyle-theme"
   ],
-  "license": "CC0-1.0",
+  "license": "MIT",
   "vivliostyle": {
     "theme": {
       "name": "Bunko-pre",
