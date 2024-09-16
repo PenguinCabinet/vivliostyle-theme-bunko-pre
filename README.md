@@ -4,6 +4,9 @@ A theme that add pre text support to [Bunko Theme for Vivliostyle](https://githu
 
 [文庫用のテーマ](https://github.com/vivliostyle/themes/tree/main/packages/@vivliostyle/theme-bunko)で、preテキストを使えるようにするテーマ。
 
+> [!WARNING]
+> 文字数が増加するとbuildが極端に遅くなるため、その場合、段落ごとに空行を挟む本来の記法をおすすめします
+
 ## Use
 
 In `vivliostyle.config.js`:
